@@ -105,7 +105,7 @@ cd perpustakaan-digital
 - LocalStorage untuk menyimpan data
 
 ## 👥 Kontributor
-- [Nama Siswa](https://github.com/username) - Developer & Desainer
+- Muh. Naufal Wildhani(https://github.com/nopaLw) - Developer & Desainer
 
 ## 📄 Lisensi
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
